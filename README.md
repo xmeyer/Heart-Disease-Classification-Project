@@ -6,6 +6,6 @@ What I've learned from the hands on project:
 > * Logistic Regression model
 > * Better use and visuals of model evaluation metrics
 > * Well-detailed explaination of a real-world end to end classification problem
-> * Feature importance: model driven exploratory data ana;ysis
+> * Feature importance: model driven exploratory data analysis
 
 **Complete Machine Learning & Data Science Bootcamp 2021** by Andrei Neagoie (Senior Software Developer turned Instructor) and Daniel Bourke (Machine Learning Engineer/Writer/Video maker)
